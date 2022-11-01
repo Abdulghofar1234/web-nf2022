@@ -1,0 +1,54 @@
+body {
+	background-color: white;
+	font-family: 'Lucida sans', Verdana, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+p {
+	text-align: justify;
+	width: fit-content;
+}
+
+.abesar {
+	display:inline;
+	font-size:40px;
+	color:red;
+}
+
+.center {
+	width: 50%;
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.foto {
+	background-color: black;
+}
+
+.foto img {
+	width: 23%;
+}
+
+.promo {
+	color: red;
+	text-align: center;
+	font-size: 20px
+}
+
+.cod {
+	margin: auto;
+	width: 70%;
+}
+
+.cod p {
+	background-color: orange;
+	border: 10px solid red;
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
