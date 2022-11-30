@@ -1,0 +1,75 @@
+body {
+	background-color: aqua;
+}
+
+.tampilan {
+	background: white;
+	width: 1000px;
+	height: 700px;
+	margin: auto;
+
+}
+
+.header {
+	background: green;
+	height: 200px;
+	width: 1000px;
+	overflow: hidden;
+}
+
+.teks {
+	background: red;
+	height: 20px;
+	width: 1000px;
+	overflow: hidden;
+}
+
+.menu {
+	background: yellow;
+	height: 50px;
+	width: 1000px;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.menu ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+.menu ul {
+	display: inline; margin-left: 50px; line-height: 50px;
+	font-size: 18px; border: 1px solid blue;
+	padding: 3px 15px; border-radius: 10px; background: white;
+}
+
+.isi {
+	background: skyblue;
+	height: 450px;
+	width: 1000px;
+}
+
+.kiri {
+	background: white;
+	height: 450px;
+	width: 700px;
+	float: left;
+} 
+
+.kanan {
+	background: orange;
+	height: 450px;
+	width: 300px;
+	float: left;
+}
+
+.footer {
+	background: black;
+	height: 50px;
+	width: 1000px;
+	overflow: hidden;
+	text-decoration-color: white;
+}
